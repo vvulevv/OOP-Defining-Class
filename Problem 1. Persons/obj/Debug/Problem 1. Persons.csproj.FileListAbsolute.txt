@@ -1,0 +1,6 @@
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\OOP-Defining-Class\bin\Debug\OOP-Defining-Class.exe.config
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\OOP-Defining-Class\bin\Debug\OOP-Defining-Class.exe
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\OOP-Defining-Class\bin\Debug\OOP-Defining-Class.pdb
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\OOP-Defining-Class\obj\Debug\Problem 1. Persons.csprojResolveAssemblyReference.cache
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\OOP-Defining-Class\obj\Debug\OOP-Defining-Class.exe
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\OOP-Defining-Class\obj\Debug\OOP-Defining-Class.pdb
