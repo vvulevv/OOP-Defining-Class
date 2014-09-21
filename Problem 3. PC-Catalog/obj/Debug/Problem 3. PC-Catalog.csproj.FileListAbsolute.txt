@@ -1,0 +1,6 @@
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 3. PC-Catalog\bin\Debug\Problem_3.PC_Catalog.exe.config
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 3. PC-Catalog\obj\Debug\Problem 3. PC-Catalog.csprojResolveAssemblyReference.cache
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 3. PC-Catalog\bin\Debug\Problem_3.PC_Catalog.exe
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 3. PC-Catalog\bin\Debug\Problem_3.PC_Catalog.pdb
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 3. PC-Catalog\obj\Debug\Problem_3.PC_Catalog.exe
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 3. PC-Catalog\obj\Debug\Problem_3.PC_Catalog.pdb
