@@ -1,0 +1,6 @@
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 2. LaptopShop\bin\Debug\Problem_2.LaptopShop.exe.config
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 2. LaptopShop\bin\Debug\Problem_2.LaptopShop.exe
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 2. LaptopShop\bin\Debug\Problem_2.LaptopShop.pdb
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 2. LaptopShop\obj\Debug\Problem 2. LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 2. LaptopShop\obj\Debug\Problem_2.LaptopShop.exe
+C:\Users\vvulevv\Downloads\SoftUni\OOP-Difening-Classes-Homework\OOP-Defining-Class\Problem 2. LaptopShop\obj\Debug\Problem_2.LaptopShop.pdb
